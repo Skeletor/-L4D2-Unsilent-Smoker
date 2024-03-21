@@ -1,4 +1,4 @@
-# [L4D2] Unsilent Smoker
+# [L4D1/2] Unsilent Smoker
 Whenever you encounter the AI smoker and it's preparing to attack, it emits the
 distnguishable 'warning' sound.<br>
 
