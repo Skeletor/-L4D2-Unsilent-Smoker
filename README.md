@@ -9,7 +9,9 @@ It happens when the smoker isn't facing you directly before performing the attac
 his 'warning' sound gets interrupted by the 'spot prey' sound.<br>
 	
 This plugin simply blocks the 'spot prey' sound if the previous smoker's sound was
-the 'warning' one.<br><br>
+the 'warning' one.<br>
+
+Works for both L4D1 and L4D2.<br><br>
 
 -= Installation =-
 1. Install sourcemod and metamod (preferably the latest versions) here:<br>
